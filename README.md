@@ -7,7 +7,7 @@ git clone https://github.com/RobertRM/docker-elasticsearch-arm64 && cd docker-el
 docker-compose up
 ```
 Wait a bit for it to start up then go to http://localhost:5601 and Kibana should load. You can replace
-`localhsot` with the IP of your server to access it remotely.
+`localhost` with the IP of your server to access it remotely.
 
 ## Build Image For Use
 Use the bash script:
